@@ -1,0 +1,23 @@
+== matix sum: =======
+a[][]=b[][] + c[][]
+
+
+== matrix multiply: ======
+a[][] = b[][t:] * c[t] []
+
+
+== fill with numbers: ======
+vector[i:][]  = []^2 + 2*[] + a[]
+
+
+/* skip
+   all */
+// comments
+
+
+== nested test: =====
+a[p[[]]] = c[b[]]
+
+
+== bracket is limit in for: =====
+data[:quantity[]]
